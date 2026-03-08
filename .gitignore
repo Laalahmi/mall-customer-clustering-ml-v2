@@ -1,19 +1,5 @@
-# Python
+.venv/
 __pycache__/
 *.pyc
-
-# virtual env
-.venv/
-
-# models
-models/*.joblib
-
-# logs
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# streamlit cache
-.streamlit/
+logs/
+.ipynb_checkpoints/
